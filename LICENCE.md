@@ -1,0 +1,25 @@
+      GLWT(Good Luck With That) Licencia Pública
+                 Copyright (c) Cualquiera, excepto Autor
+
+
+Cualquiera puede copiar, distribuir, modificar, mezclar, vender, publicar,
+"sublicenciar" o lo que quiera con este software BAJO SU PROPIO RIESGO.
+
+                           Preámbulo
+
+El autor no tiene ni idea de qué hace el código de este proyecto.
+Puede funcionar o no, no hay una tercera opción.
+
+                BUENA SUERTE CON ESO LICENCIA PÚBLICA
+
+TÉRMINOS Y CONDICIONES PARA COPIA, DISTRIBUCIÓN Y MODIFICACIÓN
+
+0. Puedes hacer LO QUE TE DE LA GANA mientras NO DEJES NINGUNA FORMA
+   DE ENCONTRAR AL AUTOR del producto original para poder culparlo o hacerlo
+   responsable.
+
+EN NINGÚN CASO LOS AUTORES SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U
+OTRO TIPO DE RESPONSABILIDAD, YA SEA UNA ACCIÓN CONTRACTUAL, NO CONTRACTUAL O
+DE CUALQUIER OTRO TIPO, RELACIONADA O NO, POR SU USO O DERIVADOS.
+
+Buena suerte y vaya con Dios.

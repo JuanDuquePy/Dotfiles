@@ -1,0 +1,39 @@
+[window]
+position = {x = 300, y = 50}
+startup_mode = "Windowed"
+title = "RedVelvet"
+decorations = "buttonless"
+opacity = 0.9
+
+[font]
+size = 13
+builtin_box_drawing = true
+
+[colors]
+cursor = { text = "#EFB036", cursor = "#EFB036"}
+
+[keyboard]
+bindings = [
+	{ key = "v", mods = "Control", action = "Paste"},
+	{ key = "c", mods = "Control", action = "Copy"},
+	{ key = "N", mods = "Control|Shift", action = "CreateNewWindow" },
+]
+
+[bell]
+animation = "Ease"
+duration = 150
+color = "#E74A5F"
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+blink_interval = 500
+
+
+[mouse]
+hide_when_typing = true
+bindings = [
+	{ mouse = "Right", mods = "Control", action = "Paste"}, 
+]
+
+[general]
+import = ["~/.config/alacritty/themes/themes/ashes_dark.toml"]
